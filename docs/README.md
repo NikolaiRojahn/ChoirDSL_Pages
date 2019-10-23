@@ -1,4 +1,5 @@
-# TEST
+# Last Christmas
 
-Dette er en test.
+This is a choir focusing on christmas songs.
+The choir will be performing every Sunday.
 
