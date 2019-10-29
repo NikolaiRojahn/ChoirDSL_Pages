@@ -5,9 +5,9 @@ They will be performing every Sunday.
 
 ### Members
 
- **Jörg** - **SHORT**  
- **Morten** - **LONG**  
- **Claus** - **SHORT**  
- **Nikolai** - **LONG**  
-
+| Name | Voice |
+| :Jörg: | | :SHORT: |  
+| :Morten: | | :LONG: |  
+| :Claus: | | :SHORT: |  
+| :Nikolai: | | :LONG: |  
 
